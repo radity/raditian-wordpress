@@ -1,5 +1,5 @@
 
-# Raditian
+# Raditian Wordpress Theme
 
 **Contributors:** Radity  
 **Requires at least:** WordPress 5.4.2 
